@@ -7,7 +7,7 @@ import sqlite3
 from colorama import *
 
 init(autoreset=True)
-
+# /////////////////////////////////////////////////////////////
 class DBManager:
     def __init__(self, **kwargs):
         self.connection = kwargs['connection']
