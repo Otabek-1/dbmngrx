@@ -1,4 +1,4 @@
-# dbmngrx 0.1.1
+# dbmngrx 0.1.2
 
 **Author**: *Otabek Burxonov*
 
@@ -59,4 +59,4 @@ MIT License © Otabek Burxonov
 
 - 📘 Documentation: Coming soon 
 - 💻 GitHub: https://github.com/Otabek-1/dbmngrx
-- 📦 PyPI: https://pypi.org/project/dbmngrx/0.1.1/
+- 📦 PyPI: https://pypi.org/project/dbmngrx/0.1.2/
