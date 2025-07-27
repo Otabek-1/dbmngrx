@@ -57,6 +57,6 @@ MIT License © Otabek Burxonov
 
 ## 🔗 Links
 
-- 📘 Documentation: https://your-docs-site.com *(placeholder)*  
-- 💻 GitHub: https://github.com/your-username/dbmngrx *(placeholder)*  
-- 📦 PyPI: https://pypi.org/project/dbmngrx/0.1.1/ *(placeholder)*te
+- 📘 Documentation: Coming soon 
+- 💻 GitHub: https://github.com/Otabek-1/dbmngrx
+- 📦 PyPI: https://pypi.org/project/dbmngrx/0.1.1/
