@@ -57,6 +57,6 @@ MIT License © Otabek Burxonov
 
 ## 🔗 Links
 
-- 📘 Documentation: Coming soon 
+- 📘 Documentation: [Enter](https://dbmanagerx.netlify.app) 
 - 💻 GitHub: https://github.com/Otabek-1/dbmngrx
 - 📦 PyPI: https://pypi.org/project/dbmngrx/0.1.2/
